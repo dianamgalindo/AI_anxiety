@@ -1,2 +1,35 @@
-VRNetzer -> A virtual Reality Framework for Network Visualization and Analytics: 
+VRNetzer -> A Virtual Reality Framework for Network Visualization and Analytics: 
 https://github.com/menchelab/VRNetzer 
+
+**TALENT MIGRATION:**
+https://datacatalog.worldbank.org/search/dataset/0038044/Talent-Migration---LinkedIn-Data-  
+
+- Methodology: 
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://documents1.worldbank.org/curated/en/827991542143093021/pdf/World-Bank-Group-LinkedIn-Data-Insights-Jobs-Skills-and-Migration-Trends-Methodology-and-Validation-Results.pdf
+
+**LINKEDIN ECONOMIC GRAPH**
+https://economicgraph.linkedin.com/
+
+**WEB SCRAPING LINKEDIN TUTORIAL**
+with selenium/ scrapping profiles - https://www.youtube.com/watch?v=zkfLAY2OrtI
+with python scrappy/ scrapping jobs - https://www.youtube.com/watch?v=d4iz2NrZVRg
+scraping linkedin company profiles - https://www.youtube.com/watch?v=H-YWdhSl8LY
+
+**FLASK:** 
+https://www.youtube.com/playlist?list=PLrC-HcVNfULaP6y6z57MaF2L9fZz0RQJq
+
+**VR Interactable Visualisation** 
+https://github.com/MaximeCordeil/IATK/blob/master/Documentation/VR_TUTORIAL.md
+
+**IATK visualisation:** 
+https://github.com/MaximeCordeil/IATK
+
+**Data visualisation**:
+http://dataphys.org/list/gallery/ 
+
+**Interconnected - Refik Anadol:**
+ https://refikanadol.com/works/interconnected-clt/ 
+
+**MAPBOX SDK for unity**
+https://www.mapbox.com/install/unity/
+https://docs.mapbox.com/unity/maps/guides/#install-the-maps-sdk-for-unity
