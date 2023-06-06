@@ -5,6 +5,6 @@
 *.indd
 *.png
 *.jpg
-Design and Process Documentation/Physical Output/config.py
-Design and Process Documentation/Physical Output/.venv
-Design and Process Documentation/Data Analysis/.ipynb_checkpoints
+3. Physical Output Code/config.py
+3. Physical Output Code/.venv
+2. Data Analysis Code/.ipynb_checkpoints
