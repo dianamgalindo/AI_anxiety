@@ -8,7 +8,12 @@ I embarked on a project to delve deeper into the public's opinion and sentiments
 
 This data then takes shape within a physical structure where the most prevalent words are imprinted in chocolates, and where people can interact with the data, but also input their own opinions.
 
+![Github project support asset](https://git.arts.ac.uk/17518357/Big-Data_y2/blob/main/Resources/secondary_banner.png)
+
 ## README structure
-- **Design and Process Documentation:** a pdf document demonstrating my process of thought and project evolution.
-- **Formative Assignment:** A first view of the project I have in mind.
-- **Resources:** readings/ datasets that have been part of primary research.
+- **1. Design and Process Documentation:** this folder contains my project documentation in PDF format. Please notice that I have embedded links within the documentation. GitHub doesn't understand the hyperlinks in the Interactive PDF, therefore **you will need to download** the file to be able to open the links.
+
+- **2. Data Analysis Code:** this folder contains all the code I generated during the data processing stage. I have used Jupyter notebook, and some of them might be too large to be displayed on GitHub. Similar to the project documentation, the files will be better accessed if they are downloaded.
+- **3. Physical Output Code** this folder contains the code I have generated to control the physical output of the project. This code is mainly establishing communication between Python, Arduino, and Twitter.
+- **Resources:** this document contains relevant links that were part of my research.
+- **Formative assignment:** I have included my formative assignment because my project idea changed during the development stage. This has been recorded within the project documentation file.
