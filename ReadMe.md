@@ -11,9 +11,9 @@ This data then takes shape within a physical structure where the most prevalent 
 ![Github project support asset](https://git.arts.ac.uk/17518357/Big-Data_y2/blob/main/Resources/secondary_banner.png)
 
 ## README structure
-- **1. Design and Process Documentation:** this folder contains my project documentation in PDF format. Please notice that I have embedded links within the documentation. GitHub doesn't understand the hyperlinks in the Interactive PDF, therefore **you will need to download** the file to be able to open the links.
+- [**1. Design and Process Documentation:**](https://git.arts.ac.uk/17518357/Big-Data_y2/tree/main/1.%20Design%20and%20Process%20Documentation) this folder contains my project documentation in PDF format. Please notice that I have embedded links within the documentation. GitHub doesn't understand the hyperlinks in the Interactive PDF, therefore **you will need to download** the file to be able to open the links.
 
-- **2. Data Analysis Code:** this folder contains all the code I generated during the data processing stage. I have used Jupyter notebook, and some of them might be too large to be displayed on GitHub. Similar to the project documentation, the files will be better accessed if they are downloaded.
-- **3. Physical Output Code** this folder contains the code I have generated to control the physical output of the project. This code is mainly establishing communication between Python, Arduino, and Twitter.
-- **Resources:** this document contains relevant links that were part of my research.
-- **Formative assignment:** I have included my formative assignment because my project idea changed during the development stage. This has been recorded within the project documentation file.
+- [**2. Data Analysis Code:**](https://git.arts.ac.uk/17518357/Big-Data_y2/tree/main/2.%20Data%20Analysis%20Code) this folder contains all the code I generated during the data processing stage. I have used Jupyter notebook, and some of them might be too large to be displayed on GitHub. Similar to the project documentation, the files will be better accessed if they are downloaded.
+- [**3. Physical Output Code**](https://git.arts.ac.uk/17518357/Big-Data_y2/tree/main/3.%20Physical%20Output%20Code) this folder contains the code I have generated to control the physical output of the project. This code is mainly establishing communication between Python, Arduino, and Twitter.
+- [**Resources:**](https://git.arts.ac.uk/17518357/Big-Data_y2/tree/main/Resources) ProjectResources.txt contains relevant links that were part of my research, some of them were explored but not used in the final output.
+- [**Formative assignment:**](https://git.arts.ac.uk/17518357/Big-Data_y2/blob/main/Formative%20Assignment.pdf) I have included my formative assignment because my project idea changed during the development stage. This has been recorded within the project documentation file.
