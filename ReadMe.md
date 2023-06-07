@@ -10,7 +10,7 @@ This data then takes shape within a physical structure where the most prevalent 
 
 ![Github project support asset](https://git.arts.ac.uk/17518357/Big-Data_y2/blob/main/Resources/secondary_banner.png)
 
-## README structure
+## Repository folder structure
 - [**1. Design and Process Documentation:**](https://git.arts.ac.uk/17518357/Big-Data_y2/tree/main/1.%20Design%20and%20Process%20Documentation) this folder contains my project documentation in PDF format. Please notice that I have embedded links within the documentation. GitHub doesn't understand the hyperlinks in the Interactive PDF, therefore **you will need to download** the file to be able to open the links.
 
 - [**2. Data Analysis Code:**](https://git.arts.ac.uk/17518357/Big-Data_y2/tree/main/2.%20Data%20Analysis%20Code) this folder contains all the code I generated during the data processing stage. I have used Jupyter notebook, and some of them might be too large to be displayed on GitHub. Similar to the project documentation, the files will be better accessed if they are downloaded.
