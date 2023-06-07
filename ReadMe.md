@@ -4,9 +4,9 @@ This repository includes research, ideas, development, technical solutions and r
 
 ![Github project support asset](https://git.arts.ac.uk/17518357/Big-Data_y2/blob/main/Resources/main_banner.png)
 
-I embarked on a project to delve deeper into the public's opinion and sentiments toward AI as it becomes a mainstream concept and a growing concern to everyone. To achieve this, I conducted sentiment and emotion analysis on a collection of web-scraped websites obtained through search queries like "How are people feeling about AI in the workplace?" or "How are people feeling about AI taking over their jobs?". After processing and cleaning the data, I extracted the general sentiment prevalent across the content.
+I embarked on a project to delve deeper into the public's opinion and sentiments towards AI as it becomes a mainstream concept and a growing concern to everyone. To achieve this, I conducted sentiment and emotion analysis on a collection of web-scraped websites obtained through search queries like "How are people feeling about AI in the workplace?" or "How are people feeling about AI taking over their jobs?". After processing and cleaning the data, I extracted the general sentiment prevalent across the content.
 
-This data then takes shape within a physical structure where the most prevalent words are imprinted in chocolates, and where people can interact with the data, but also input their own opinions.
+This data then takes shape within a physical structure where the most prevalent words are imprinted in chocolates, and where people can not only **interact with the data, but also input their own opinions**.
 
 ![Github project support asset](https://git.arts.ac.uk/17518357/Big-Data_y2/blob/main/Resources/secondary_banner.png)
 
