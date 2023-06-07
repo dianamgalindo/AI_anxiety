@@ -3,7 +3,6 @@
 *.pptx
 *.docx
 *.indd
-*.png
 *.jpg
 3. Physical Output Code/config.py
 3. Physical Output Code/.venv
